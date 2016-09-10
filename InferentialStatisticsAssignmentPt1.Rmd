@@ -12,7 +12,7 @@ This PDF meets the requirements of Inferential Statistics assignment part 1, whi
 (2) Compare the sampled vs theoretical mean; and 
 (3) Compare the sampled vs theoretical variance. 
 
-To keep within the 3 page report limit, all R code is in Appendix 2. 
+To keep within the 3 page report limit, all R code is in the Appendix. 
 ```{r libraries, echo=FALSE, error=FALSE, warning=FALSE, message=FALSE}
 knitr::opts_chunk$set(cache=TRUE)
 library(grid)
